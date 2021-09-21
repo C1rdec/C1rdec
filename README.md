@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🏃 I'm Cedric also known as **C1rdec**
+- I’m currently working at [SoneparCanada](https://soneparcanada.com/)
+- - ⌨️ I use daily: `.cs`, `.xaml`, `.dart`
 <!--
 **C1rdec/C1rdec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://github-readme-stats.vercel.app/api?username=C1rdec&show_icons=true&hide_title=true&theme=nightowl)](https://github.com/C1rdec)
