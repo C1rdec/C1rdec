@@ -2,7 +2,7 @@
 
 - 🏃 I'm Cedric also known as **C1rdec**
 - I’m currently working at [SoneparCanada](https://soneparcanada.com/)
-- - ⌨️ I use daily: `.cs`, `.xaml`, `.dart`
+- ⌨️ I use daily: `.cs`, `.xaml`, `.dart`
 <!--
 **C1rdec/C1rdec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
