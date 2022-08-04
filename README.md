@@ -1,23 +1,14 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Cedric 👨‍💻
+</h1>
 
-- 🏃 I'm Cedric also known as **C1rdec**
-- I’m currently working at [SoneparCanada](https://soneparcanada.com/)
-- ⌨️ I use daily: `.cs`, `.xaml`, `.dart`
-<!--
-**C1rdec/C1rdec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  Also known as C1rdec <br/> I’m currently working at <a href="https://soneparcanada.com/">Sonepar Canada</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![](https://github-readme-streak-stats.herokuapp.com/?user=C1rdec&theme=nightowl)](https://github.com/C1rdec)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=C1rdec&theme=dark" width="430"></a>
+</p>
 
 ## 
 
