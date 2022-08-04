@@ -32,9 +32,6 @@ Here are some ideas to get you started:
   <a href="https://code.visualstudio.com/">
     <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   </a>
-  <a href="https://www.microsoft.com/">
-    <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  </a>
   </br>
   </br>
   <a href="https://docs.microsoft.com/en-us/dotnet/fundamentals/">
